@@ -8,7 +8,7 @@
 🔭 I’m currently working on Job Hunt<br>  
 🌱 I’m currently learning React.js, AWS, socket.io<br>  
 📫 How to reach me: rishabhsaraswat269@gmail.com<br>  
-📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1fC1cHhOsFdLp1bBNQgcIfzJIP5z_MQny/view?usp=drivesdk)<br>  
+📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/14BURop129qUfGqB22jXFqJgOzibsSarn/view?usp=drivesdk)<br>  
 ⚡ Fun fact: I think I am crazy 🙂  
 
 ## 🌐 Socials:
